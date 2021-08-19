@@ -1,5 +1,5 @@
 # Table of contents
 
 * [概览](README.md)
-* [&lt;第一阶段&gt; 木器时代](di-yi-jie-duan-mu-qi-shi-dai.md)
+* [&lt;第一阶段&gt; 木器时代](stage1.md)
 
