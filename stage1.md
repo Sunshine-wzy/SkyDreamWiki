@@ -1,6 +1,6 @@
 # <第一阶段> 木器时代
 
-1.钩子
+## 1. 钩子
 
 ~~老空岛标配了~~众所周知在空岛前期，树木是很贵重的资源，而钩子能让这种资源带来的收益最大化。
 
@@ -8,19 +8,19 @@
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-#### 1.1.木钩
+### 1.1 木钩
 
 功能和钩子一样，但破坏树叶速度更快，且拥有耐久度限制会**损坏**
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-#### 1.2.石钩
+### 1.2 石钩
 
 在木钩的基础上拥有了更高的耐久
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-#### 2.蚕
+## 2. 蚕
 
 从树叶里钩出来的小东西，放置在副手，主手拿着同从树叶里钩出的桑叶右键即可喂食蚕。
 
@@ -28,13 +28,13 @@
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-#### 2.1.桑叶
+### 2.1 桑叶
 
 从树叶里钩出的桑叶~~话说橡树是怎么长出桑叶的~~，有多种用途。（前期主要还是喂蚕）
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-#### 3.扳手
+## 3. 扳手
 
 怪物掉落的资源是你的SkyDream之旅中必不可少的 用你手中的木头搭建一个刷怪平台并打些小白吧\~ 用小白掉的骨头做把扳手！
 
@@ -42,7 +42,7 @@
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-#### 4.筛子
+## 4. 筛子
 
 你的第一个多方块机器！
 
@@ -62,7 +62,7 @@
 
 食用方法：把泥土放在活板门上方四个羊毛中间，然后不断右键活板门即可把泥土筛为石子。（你知道吗：在活板门下方放置箱子，箱子里的方块会自动到活板门上方哦）
 
-#### 4.1.石子
+### 4.1 石子
 
 羊毛筛子筛泥土得来，四个石子可以合成1个圆石。
 
@@ -70,7 +70,7 @@
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-#### 5.木桶
+## 5. 木桶
 
 木桶是生产泥土的重要方式之一。
 
@@ -86,7 +86,7 @@
 
 ​ 将8片以上的桑叶放在副手，然后不断右击木桶中间的栅栏来制造骨粉！
 
-#### 6.草方块
+## 6. 草方块
 
 草，一种植物 没有草方块怎么能活下去呢？
 
@@ -96,7 +96,7 @@
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-#### 7.小麦种子
+## 7. 小麦种子
 
 有了草方块和源源不断的骨粉，你就可以刷草了（雾）将你的草地扩大一点，然后用骨粉刷草搞点小麦种子吧
 
