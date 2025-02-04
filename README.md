@@ -1,4 +1,11 @@
+---
+description: SkyDream 天之梦
+---
+
 # 概览
+
+* 教程: [https://sunshinewzy.gitbook.io/skydream](https://sunshinewzy.gitbook.io/skydream)
+* GitHub: [https://github.com/Sunshine-wzy/SkyDream](https://github.com/Sunshine-wzy/SkyDream)
 
 ## 1. 基本介绍
 
@@ -27,3 +34,12 @@ SkyDream目前有3x3x3结构的普通多方块机器和5x5x5结构的多方块�
 SkyDream可以让玩家从一块泥土一棵树的空岛发展成天空工厂。
 
 因此，无需安装刷矿插件，且自定义空岛时去除箱子，才能更好地食用本插件。
+
+## 5. 下载
+
+* 一块泥土一棵树的schematic
+
+### 版本选择
+
+* 1.13\~最新版：选择 SkyDream **v4** 版本，需要同时下载SkyDream与SunSTCore（前置库）插件
+* 1.12.2：选择 SkyDream **v3** 版本，只需下载SkyDream插件
