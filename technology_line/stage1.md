@@ -6,19 +6,19 @@
 
 而且还会有极其关键的副产物“**蚕**”和“**桑叶**”产出。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.1 木钩
 
 功能和钩子一样，但破坏树叶速度更快，且拥有耐久度限制会**损坏**
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.2 石钩
 
 在木钩的基础上拥有了更高的耐久
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. 蚕
 
@@ -26,13 +26,13 @@
 
 一个蚕可喂食5次，每次喂食都会吐出数量不等的丝线。
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.1 桑叶
 
 从树叶里钩出的桑叶~~话说橡树是怎么长出桑叶的~~，有多种用途。（前期主要还是喂蚕）
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. 扳手
 
@@ -40,7 +40,7 @@
 
 这是SkyDream的一个关键转折点，这意味着你要开始和多方块机器接触了。
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. 筛子
 
@@ -52,13 +52,13 @@
 
 **搭建教程**
 
-* ![](<.gitbook/assets/image (7).png>)
-* ![](<.gitbook/assets/image (8).png>)
-* ![](<.gitbook/assets/image (9).png>)
+* ![](<../.gitbook/assets/image (7).png>)
+* ![](<../.gitbook/assets/image (8).png>)
+* ![](<../.gitbook/assets/image (9).png>)
 
 成品图：（扳手右键活板门即可构建筛子）
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 食用方法：把泥土放在活板门上方四个羊毛中间，然后不断右键活板门即可把泥土筛为石子。（你知道吗：在活板门下方放置箱子，箱子里的方块会自动到活板门上方哦）
 
@@ -66,9 +66,9 @@
 
 羊毛筛子筛泥土得来，四个石子可以合成1个圆石。
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. 木桶
 
@@ -76,11 +76,11 @@
 
 **搭建教程**
 
-* （这里橡木台阶是上半砖） ![](<.gitbook/assets/image (13).png>)
-* ![image.png](<.gitbook/assets/image (14).png>)
-* ![image.png](<.gitbook/assets/image (15).png>)
+* （这里橡木台阶是上半砖） ![](<../.gitbook/assets/image (13).png>)
+* ![image.png](<../.gitbook/assets/image (14).png>)
+* ![image.png](<../.gitbook/assets/image (15).png>)
 
-成品图：（扳手右键3x3结构中心的橡木栅栏）![image.png](<.gitbook/assets/image (16).png>)
+成品图：（扳手右键3x3结构中心的橡木栅栏）![image.png](<../.gitbook/assets/image (16).png>)
 
 食用方法：将8颗以上的树苗放在副手，然后不断右击木桶中间的栅栏来制造泥土！
 
@@ -94,7 +94,7 @@
 
 泥土上会有进度条
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. 小麦种子
 
