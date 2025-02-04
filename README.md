@@ -37,7 +37,12 @@ SkyDream可以让玩家从一块泥土一棵树的空岛发展成天空工厂。
 
 ## 5. 下载
 
-* 一块泥土一棵树的schematic
+> 内含一块泥土一棵树的schematic文件，可用于自定义空岛
+
+* 主链接：[https://www.123684.com/s/JeNqTd-rVPVv](https://www.123684.com/s/JeNqTd-rVPVv)
+* 备链接：[https://www.123865.com/s/JeNqTd-rVPVv](https://www.123865.com/s/JeNqTd-rVPVv)
+
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ### 版本选择
 
