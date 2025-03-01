@@ -48,3 +48,7 @@ SkyDream可以让玩家从一块泥土一棵树的空岛发展成天空工厂。
 
 * 1.13\~最新版：选择 SkyDream **v4** 版本，需要同时下载SkyDream与SunSTCore（前置库）插件
 * 1.12.2：选择 SkyDream **v3** 版本，只需下载SkyDream插件
+
+## 6. 技术支持
+
+Bug反馈&交流QQ群：423179929
